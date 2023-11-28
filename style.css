@@ -127,7 +127,7 @@ picture img{
 
 /* Styling for tablet screen */
 
-@media (min-width: 767px) {
+@media (min-width: 48rem) {
     article {
         width: 42.86rem;
         height: 32.15rem;
